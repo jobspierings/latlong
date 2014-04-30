@@ -1,4 +1,4 @@
-# Latlong
+# Latlong van Job
 
 Easily find latitude and lotitude of a point!
 
